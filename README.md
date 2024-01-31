@@ -5,7 +5,7 @@ I just wanted an excuse to learn Flask but ended up making an installation scrip
 
 [API Repository Link](https://github.com/tlcheah2/stoic-quote-lambda-public-api)
 
-## How to "install"
+## How to run it:
 To create the virtual environment run:
 
     python installation.py
